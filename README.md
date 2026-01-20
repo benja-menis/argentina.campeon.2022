@@ -1,74 +1,126 @@
-# Argentina – Landing Page Documental Profesional
+# 🇦🇷 Argentina Campeón del Mundo 2022 – Landing Page Documental
 
-Este proyecto consiste en el desarrollo de una landing page profesional tipo documental que narra el camino completo de Argentina hasta consagrarse campeona del mundo en Qatar 2022. La página fue creada con un enfoque moderno, cinematográfico y orientado a la experiencia del usuario, generando una narrativa visual clara y emocionante desde el primer contacto con el sitio.
+Este proyecto consiste en el desarrollo de una **landing page documental profesional** que narra el recorrido completo de la Selección Argentina hasta consagrarse **campeona del mundo en Qatar 2022**.  
+La página fue creada con un enfoque **cinematográfico, moderno y orientado a la experiencia del usuario**, construyendo una narrativa visual clara, emotiva y envolvente desde el primer contacto con el sitio.
 
-El objetivo principal de este proyecto es brindar a un desarrollo web un ejemplo de storytelling profesional, permitiendo mostrar partidos, goles, momentos claves y la emoción del Mundial de manera interactiva, clara y accesible desde cualquier dispositivo.
+El objetivo principal del proyecto es **demostrar cómo aplicar storytelling visual en desarrollo web**, presentando partidos, goles y momentos clave del Mundial de forma **interactiva, ordenada y accesible desde cualquier dispositivo**.
 
-La estructura y el diseño están pensados para proyectos reales o demostrativos, priorizando la experiencia del usuario, la legibilidad del contenido y la optimización visual, evitando elementos innecesarios o sobrecargados.
+La estructura y el diseño están pensados tanto para **proyectos reales como demostrativos**, priorizando la experiencia del usuario, la legibilidad del contenido y el impacto visual, evitando elementos innecesarios o sobrecargados.
 
-🎯 Enfoque del proyecto
+---
+
+## 🎯 Enfoque del proyecto
 
 Esta landing page documental está orientada a:
 
-Contar la historia completa de Argentina en Qatar 2022
+- Contar de manera clara y emocional la historia completa de Argentina en Qatar 2022  
+- Aplicar técnicas de **storytelling y narrativa visual** en una landing page  
+- Mostrar partidos, resultados y momentos clave de forma ordenada  
+- Facilitar la navegación por capítulos y secciones  
+- Transmitir épica, emoción y profesionalismo  
+- Servir como **plantilla escalable** para proyectos documentales, deportivos o narrativos  
 
-Comunicar emoción, profesionalismo y narrativa visual
+El diseño utiliza una **paleta de colores negro, celeste y bordó Qatar**, tipografías modernas y un estilo visual cinematográfico que logra una estética elegante y profesional, adaptable a diferentes temáticas deportivas o de storytelling.
 
-Mostrar partidos, resultados y momentos clave de manera clara
+---
 
-Facilitar la navegación por capítulos y secciones
+## ✨ Características principales
 
-Servir como plantilla escalable para proyectos documentales o de storytelling
+- Diseño cinematográfico y profesional enfocado en la narrativa  
+- Estética inspirada en el Mundial Qatar 2022  
+- Paleta de colores:
+  - Negro  
+  - Celeste  
+  - Bordó Qatar  
+- Secciones bien definidas y organizadas:
+  - Hero principal con llamado a la acción (CTA)  
+  - Fase de grupos  
+  - Eliminatorias (octavos, cuartos y semifinal)  
+  - Final épica  
+- Imágenes representativas de cada partido (2 por partido)  
+- Navegación clara por capítulos y momentos clave  
+- Diseño **100% responsivo**, optimizado para:
+  - Escritorio  
+  - Tabletas  
+  - Dispositivos móviles  
+- Estructura semántica y organizada, preparada para SEO básico  
+- Botones y elementos interactivos con:
+  - Hover  
+  - Transiciones suaves  
+- Código limpio, comentado y fácil de mantener  
+- Preparada para futuras ampliaciones:
+  - Más capítulos  
+  - Videos  
+  - Animaciones  
+  - Otras historias deportivas o documentales  
 
-El diseño utiliza una paleta de colores negra, celeste y bordó Qatar, tipografías modernas y un estilo cinematográfico que logra una estética elegante y profesional, adaptable a cualquier temática deportiva o narrativa visual.
+---
 
-✨ Características principales
+## 🛠️ Tecnologías utilizadas
 
-Diseño cinematográfico y profesional, enfocado en la narrativa
+### Frontend
 
-Paleta de colores: negro, celeste y bordó Qatar
+- **HTML5**  
+  Utilizado para la estructura semántica del contenido, mejorando accesibilidad, organización y SEO básico.
 
-Secciones bien definidas y organizadas:
+- **CSS3**  
+  Implementación de diseño moderno con:
+  - Flexbox  
+  - Gradientes  
+  - Transiciones  
+  - Efectos visuales de estilo cinematográfico  
 
-Hero principal con llamado a la acción (CTA)
+- **JavaScript (Vanilla)**  
+  Utilizado para:
+  - Scroll suave  
+  - Pequeñas interacciones  
+  - Mejora de la experiencia de navegación  
 
-Capítulos de grupos y partidos
+---
 
-Eliminatorias (octavos, cuartos, semifinal)
+## 🌐 Enlace a la demostración
 
-Final épica
-
-Imágenes de cada partido (2 por partido)
-
-Diseño totalmente responsivo, optimizado para:
-
-Escritorio
-
-Tabletas
-
-Dispositivos móviles
-
-Estructura semántica y organizada, preparada para SEO básico
-
-Botones y elementos interactivos con hover y transiciones suaves
-
-Código limpio, comentado y fácil de mantener, pensado para futuras ampliaciones
-
-🛠️ Tecnologías utilizadas
-
-HTML5: estructura semántica, accesibilidad y organización del contenido.
-
-CSS3: diseño moderno, flexbox, gradientes, transiciones y efectos cinematográficos.
-
-JavaScript (Vanilla): scroll suave y pequeñas interacciones para mejorar la experiencia.
-
-🌐 Enlace a la demostración
-
-👉 Enlace directo a la landing page:
+👉 **Demo en GitHub Pages:**  
 https://benja-menis.github.io/argentina.campeon.2022/
 
-📌 Nota final
+---
 
-Este proyecto forma parte de mi portafolio profesional y fue desarrollado como una landing page documental escalable, ideal para proyectos deportivos, narrativos o educativos que buscan una experiencia web moderna, atractiva y funcional.
+## 📌 Nota importante
 
-La página combina storytelling visual, interactividad y diseño profesional, sirviendo como ejemplo de un proyecto completo y de alto impacto para mostrar en GitHub o en presentaciones profesionales.
+⚠️ **Este proyecto es una página de muestra con fines educativos y de portfolio.**  
+
+No tiene fines comerciales ni oficiales.  
+Las imágenes y referencias al Mundial 2022 se utilizan únicamente con fines demostrativos y de storytelling visual.
+
+---
+
+## 📁 Uso del proyecto
+
+Este proyecto puede utilizarse como:
+
+- Ejemplo de landing page documental  
+- Proyecto de storytelling web  
+- Base para documentales digitales  
+- Proyecto educativo  
+- Presentación para portfolio profesional  
+- Plantilla para:
+  - Proyectos deportivos  
+  - Narrativas históricas  
+  - Sitios con enfoque cinematográfico  
+
+---
+
+## 👨‍💻 Autor
+
+Proyecto desarrollado como parte de un **portfolio profesional**, con foco en:
+
+- Storytelling visual  
+- Experiencia de usuario (UX)  
+- Diseño de interfaces (UI)  
+- Desarrollo frontend con HTML, CSS y JavaScript  
+- Código limpio y escalable  
+
+---
+
+🇦🇷 **Argentina Campeón del Mundo 2022**  
+*Una historia contada con código, emoción y narrativa visual*
