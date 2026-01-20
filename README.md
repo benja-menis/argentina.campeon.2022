@@ -81,7 +81,7 @@ El diseño utiliza una **paleta de colores negro, celeste y bordó Qatar**, tipo
 ## 🌐 Enlace a la demostración
 
 👉 **Demo en GitHub Pages:**  
-https://benja-menis.github.io/argentina.campeon.2022/
+https://benja-menis.github.io/biografia-argentina-campeon-2022.io/
 
 ---
 
